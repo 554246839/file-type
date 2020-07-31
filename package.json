@@ -1,0 +1,23 @@
+{
+  "name": "file-type",
+  "version": "1.0.0",
+  "description": "Get the actual file type from the file header information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/554246839/file-type.git"
+  },
+  "keywords": [
+    "file-type",
+    "get-file-type"
+  ],
+  "author": "kangdong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/554246839/file-type/issues"
+  },
+  "homepage": "https://github.com/554246839/file-type#readme"
+}
